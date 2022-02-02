@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name        Simple
+// @name        Anti Anti Adblock
 // @namespace   Violentmonkey Scripts
 // @grant       none
 // @version     1.0
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js 
 // @include        http://*
 // @include        https://*
+// @exclude https://www.google.*
 // @grant               none
 // @license             MIT License
 // @grant       GM_xmlhttpRequest
